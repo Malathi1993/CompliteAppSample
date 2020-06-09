@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OneAppEx</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">PREVIOUS</string>
+
+    <string name="introslide1_desc">Running Low Battery</string>
+    <string name="slide_2_desc">Search Nearest Thing </string>
+    <string name="slide_3_desc">Scan The QR code below the screen</string>
+    <string name="slide_4_desc">Install App And Register</string>
+    <string name="slide_5_desc">Add Money To The Wallet </string>
+    <string name="slide_6_desc">Scan QR Code </string>
+    <string name="slide_7_title">intro_7</string>
+    <string name="slide_8_desc">Battery Bin</string>
+    <string name="slide_9_desc">xyz</string>
+    <string name="slide_10_desc">Return Succeessfullr</string>
+    <string name="slidetitle" />
+</resources>
