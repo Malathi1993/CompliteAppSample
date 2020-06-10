@@ -2,7 +2,7 @@
     <string name="app_name">CompliteAppSample</string>
     <string name="next">NEXT</string>
     <string name="skip">SKIP</string>
-    <string name="start">PREVIOUS</string>
+    <string name="start">Signup</string>
     <string name="introslide1_desc">Running Low Battery</string>
     <string name="slide_2_desc">Search Nearest Thing </string>
     <string name="slide_3_desc">Scan The QR code below the screen</string>
