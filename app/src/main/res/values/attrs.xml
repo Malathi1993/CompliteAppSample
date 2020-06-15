@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="state_filled" />
+    <attr name="otpViewStyle" />
+    <declare-styleable name="OtpView_rtlTextDirection"></declare-styleable>
+    <declare-styleable name="OtpView_maskingChar"></declare-styleable>
+    <declare-styleable name="OtpView"></declare-styleable>
+    <declare-styleable name="OtpView_viewType"></declare-styleable>
+    <declare-styleable name="OtpView_itemCount"></declare-styleable>
+    <declare-styleable name="OtpView_itemHeight"></declare-styleable>
+    <declare-styleable name="OtpView_itemWidth"></declare-styleable>
+    <declare-styleable name="OtpView_itemSpacing"></declare-styleable>
+    <declare-styleable name="OtpView_itemRadius"></declare-styleable>
+    <declare-styleable name="OtpView_lineWidth"></declare-styleable>
+    <declare-styleable name="OtpView_lineColor"></declare-styleable>
+    <declare-styleable name="OtpView_android_cursorVisible"></declare-styleable>
+    <declare-styleable name="OtpView_cursorColor"></declare-styleable>
+    <declare-styleable name="OtpView_cursorWidth"></declare-styleable>
+    <declare-styleable name="OtpView_android_itemBackground"></declare-styleable>
+    <declare-styleable name="OtpView_hideLineWhenFilled"></declare-styleable>
+</resources>

@@ -23,8 +23,8 @@ Button SignUp;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sign_up);
-        Service=(TextView)findViewById(R.id.textView2);
-        SignUp=(Button) findViewById(R.id.button);
+        Service= findViewById(R.id.textView2);
+        SignUp= findViewById(R.id.button);
         // initialize a new SpannableStringBuilder instance
         SpannableStringBuilder ssBuilder = new SpannableStringBuilder(text);
 
@@ -32,7 +32,7 @@ Button SignUp;
         ssBuilder.setSpan(
                 new ForegroundColorSpan(Color.GREEN),
                 text.indexOf("Product Services"),
-                text.indexOf("Product Services") + String.valueOf("Product Services").length(),
+                text.indexOf("Product Services") + "Product Services".length(),
                 Spanned.SPAN_EXCLUSIVE_EXCLUSIVE
         );
 
